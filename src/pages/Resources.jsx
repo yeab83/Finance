@@ -3,7 +3,7 @@ import DataImg from '../assets/laptop.jpg'; // Replace with a relevant image if 
 
 const Resources = () => {
   return (
-    <div className="w-full bg-white py-20 px-6">
+    <div className="w-full bg-white py-20 px-20">
       <div className="max-w-[1240px] mx-auto grid md:grid-cols-2 items-center gap-8">
         
         {/* Text Content */}
